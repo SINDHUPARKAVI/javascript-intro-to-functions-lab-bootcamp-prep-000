@@ -29,6 +29,7 @@ return "I can't hear you!"
 function sayHiToGrandma(string)
 {
 var uppercase = string
+var love = 'I love you,Grandma.'
 if(uppercase.toUpperCase()===uppercase) 
 {
 return "YES INDEED!"
@@ -37,7 +38,7 @@ else if(uppercase.toLowerCase()===uppercase)
 {
 return "I can't hear you!"
 }
-else if(uppercase==='I love you,Grandma.')
+else if(uppercase===love)
 { 
 return "I love you,too."
 }
