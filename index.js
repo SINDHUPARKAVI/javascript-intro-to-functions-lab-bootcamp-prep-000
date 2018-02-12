@@ -40,6 +40,6 @@ return "I can't hear you!"
 }
 else if(uppercase===love)
 { 
-return 'I love you,too.'
+return 'I love you, too.'
 }
 }
