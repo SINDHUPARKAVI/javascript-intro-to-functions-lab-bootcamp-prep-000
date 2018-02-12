@@ -37,7 +37,7 @@ else if(uppercase.toLowerCase()===uppercase)
 {
 return "I can't hear you!"
 }
-else if(uppercase==="I love you,Grandma.")
+else if(uppercase==I love you,Grandma.")
 { 
 return "I love you,too."
 }
